@@ -1,0 +1,7 @@
+D:\infinite_traning\Day3\Day3\bin\Debug\Day3.exe.config
+D:\infinite_traning\Day3\Day3\bin\Debug\Day3.exe
+D:\infinite_traning\Day3\Day3\bin\Debug\Day3.pdb
+D:\infinite_traning\Day3\Day3\obj\Debug\Day3.csproj.AssemblyReference.cache
+D:\infinite_traning\Day3\Day3\obj\Debug\Day3.csproj.CoreCompileInputs.cache
+D:\infinite_traning\Day3\Day3\obj\Debug\Day3.exe
+D:\infinite_traning\Day3\Day3\obj\Debug\Day3.pdb
